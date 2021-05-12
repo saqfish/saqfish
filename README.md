@@ -1,5 +1,5 @@
 ## Welcome to my public repo!
-<a href="www.linkedin.com/in/abdisheikh/">
+<a href="https://www.linkedin.com/in/abdisheikh/">
   <img align="left" alt="LinkedIn icon image" width="22px" src="https://raw.githubusercontent.com/saqfish/saqfish/master/assets/linkedin.svg" />
 </a>
 <br />

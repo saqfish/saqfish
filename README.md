@@ -11,7 +11,7 @@
   - [PandaManager](https://github.com/saqfish/PandaManager): A Chrome extension for job acceptance automation on Amazon's Mechanical Turk platform.
   - [NextTab](https://github.com/saqfish/NextTab): A Chrome extension that switches to the next tab in a selected list of tabs when refreshed.
   - [Turkkey](https://github.com/saqfish/Turkkey): A react-native mobile app for scraping Amazon's Mechanical Turk platform.
-  - [Mushaf Data Generator](https://github.com/saqfish/mushafDatasetGenerator): A Quranic data set generator from texts & data provided by [qurancomplex.gov.sa](https://qurancomplex.gov.sa/).
+  - [Mushaf](https://github.com/saqfish/mushaf): A JavaScript library for The Quran
   
 **Golang**:
   - [st-discord-bot](https://github.com/saqfish/st-discord-bot): A hobby discord bot for a server I frequent.
